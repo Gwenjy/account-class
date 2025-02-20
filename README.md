@@ -1,2 +1,2 @@
-# account-class
+# Account-Class
 bank output
